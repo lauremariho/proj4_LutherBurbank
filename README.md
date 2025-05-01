@@ -2,7 +2,7 @@
 
 # Project Goals:
 
-We hope to address nutritional inadequacies in Ethiopia for potassium, folate, and calcium through targeted income transfers and technological innovation. We would like to find out how much compensation is required for the median household to meet adequate levels of these nutrients.
+We hope to address nutritional inadequacies in Ethiopia for potassium and calcium through subsidies and technological innovation. We would like to find out how much subsidization is required for the median household to meet adequate levels of these nutrients.
 
 # About Luther Burbank:
 
